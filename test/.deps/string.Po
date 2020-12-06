@@ -1,0 +1,18 @@
+test/string.o: test/string.c /usr/include/stdc-predef.h lub/test.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h lub/types.h \
+ lub/string.h /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h \
+ lub/c_decl.h
+
+/usr/include/stdc-predef.h:
+
+lub/test.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h:
+
+lub/types.h:
+
+lub/string.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h:
+
+lub/c_decl.h:

@@ -1,0 +1,12 @@
+lub/blockpool/blockpool__get_stats.lo: \
+ lub/blockpool/blockpool__get_stats.c /usr/include/stdc-predef.h \
+ lub/blockpool/private.h lub/blockpool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+lub/blockpool/private.h:
+
+lub/blockpool.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h:

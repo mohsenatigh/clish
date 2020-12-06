@@ -1,0 +1,6 @@
+clish/libclish_la-tclish_script_callback.lo: \
+ clish/tclish_script_callback.c /usr/include/stdc-predef.h config.h
+
+/usr/include/stdc-predef.h:
+
+config.h:
